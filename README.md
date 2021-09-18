@@ -20,6 +20,8 @@ git remote add origin "destino"
 
 git remote -v
 
+git remote remove origin (excluir repositório remoto)
+
 git push origin (master/branch)
 
 git pull
