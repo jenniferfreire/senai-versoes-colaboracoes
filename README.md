@@ -2,13 +2,15 @@
 
 principais comandos:
 
+git config --global user.(name/email)
+
 git init
 
 git status
 
 git add
 
-git cmmit
+git commit -m "comentário"
 
 git log
 
@@ -18,6 +20,14 @@ git remote add origin "destino"
 
 git remote -v
 
-git push origin master
+git push origin (master/branch)
 
 git pull
+
+git checkout -b "branch"
+
+git branch -m "novo-nome" (RENOMEAR UMA BRANCH)
+
+git merge branch name
+
+git clone (URL do repositório)
