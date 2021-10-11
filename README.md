@@ -33,3 +33,5 @@ git branch -m "novo-nome" (RENOMEAR UMA BRANCH)
 git merge branch name
 
 git clone (URL do repositório)
+
+git clone -b <branch> --single-branch <repositorio> (clocar apenas uma branch)
